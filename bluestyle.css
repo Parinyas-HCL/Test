@@ -2,7 +2,11 @@ body {
 background-color: lightblue;
 }
 /* This is a single-line comment */
+<<<<<<< HEAD
 /* This is a single-line comment branch bt1 */
+=======
+/* This is a single-line comment branch bt2 */
+>>>>>>> testb2
 h1 {
 color: navy;
 margin-left: 20px;
