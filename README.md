@@ -9,3 +9,5 @@ focus it all.
 this is a newly added line.
 
 first commit line.
+
+commit for test branch 3.
